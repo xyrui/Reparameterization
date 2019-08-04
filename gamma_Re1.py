@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 31 10:55:11 2019
-
-@author: Administrator
-"""
-
 import torch
 from torch.autograd import Variable
 import numpy as np
